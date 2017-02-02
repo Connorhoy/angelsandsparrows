@@ -11,6 +11,18 @@ nav .brand-logo {
   color: white;
 }
 
+nav .button-collapse i {
+  color: white;
+}
+
+.side-nav {
+  background-color: #c62828;
+}
+
+.side-nav a {
+  color: white;
+}
+
 p {
   line-height: 2rem;
 }
